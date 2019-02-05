@@ -1,7 +1,7 @@
 ---
-title: Markdown Guide (modified)
-author: Open Source
-date: '2018-08-30'
+title: Hello World
+author: River Gillis
+date: '2019-02-04'
 categories:
   - Example
 tags:
