@@ -1,7 +1,6 @@
 ---
 title: "Change for the Sake of Change"
 date: 2019-02-05T12:52:15-06:00
-draft: true
 categories:
   - Opinions
 tags:
