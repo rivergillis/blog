@@ -9,7 +9,7 @@ tags:
   - UI
 ---
 
-Today I opened up Spotify to find this things had changed, once again. It looked like this:
+Today I opened up Spotify to find that things had changed once again. It looked like this:
 
 ![A spotify screenshot](../../sp2.jpg)
 
