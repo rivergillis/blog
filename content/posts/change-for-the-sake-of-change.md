@@ -13,4 +13,4 @@ Today I opened up Spotify to find that things had changed once again. It looked 
 
 ![A spotify screenshot](../../sp2.jpg)
 
-TODO: rant
+TODO: rant a little bit.

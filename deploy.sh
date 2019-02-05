@@ -3,10 +3,10 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t hugo-classic # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugo-classic -d ../site/rivergillis.github.io # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cd ../site/rivergillis.github.io
 # Add changes to git.
 git add -A
 
