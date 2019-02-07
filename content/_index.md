@@ -6,7 +6,7 @@ title: Home
 
 ### Computers etcetera
 
-Hey there, it looks like you've found my blog! I'm a software engineer with experience in games and graphics. Right now I'm studying at the University of Arkansas. Here's a picture of me so that you know that I am a real person:
+Hey there, it looks like you've found my blog! I'm a software engineer with experience in graphics and systems engineering. Right now I'm studying at the University of Arkansas. Here's a picture of me so that you know that I am a real person:
 
 ![An image of myself](meirl.jpg)
 
